@@ -19,5 +19,5 @@ This repository contains the complete three-stage enterprise data pipeline for P
 
 ## How to Run
 1. Ensure your environment is set up with: `pip install -r requirements.txt`
-2. Open `notebooks/Data_science_project_1.ipynb` in Jupyter.
+2. Open `notebooks/Data_science_project_1.ipynb` and `Data/Extended_Employee_Performance_and_Productivity_Data.csv` in Jupyter.
 3. Run cells sequentially to execute the pipeline.
