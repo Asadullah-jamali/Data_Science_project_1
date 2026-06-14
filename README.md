@@ -1,4 +1,4 @@
-# Data_Science_project_1
+# Data Science project 1:Advanced EDA & Feature Engineering.
 
 This repository contains the complete three-stage enterprise data pipeline for Project 1, developed using Jupyter Notebooks to document the progression from raw data to a validated, enterprise-ready feature store.
 
